@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogues>  
+    <dialogue>  
+        <role>A</role>  
+        <detail>你好！</detail>  
+    </dialogue>  
+    <dialogue>  
+        <role>B</role>  
+        <detail>你好！</detail>  
+    </dialogue>  
+    <dialogue>  
+        <role>A</role>  
+        <detail>今天我们将展示如何用Unity3D实现“对话”。</detail>  
+    </dialogue>  
+    <dialogue>  
+        <role>A</role>  
+        <detail>整个过程可能有些废……但希望大家喜欢。</detail>  
+    </dialogue>  
+    <dialogue>  
+        <role>B</role>  
+        <detail>你好好做，大家一定会喜欢的！</detail>  
+    </dialogue>  
+</dialogues>
