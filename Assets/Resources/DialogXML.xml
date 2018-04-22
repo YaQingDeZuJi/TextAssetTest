@@ -1,23 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dialogues>  
-    <dialogue>  
-        <role>A</role>  
-        <detail>你好！</detail>  
-    </dialogue>  
-    <dialogue>  
-        <role>B</role>  
-        <detail>你好！</detail>  
-    </dialogue>  
-    <dialogue>  
-        <role>A</role>  
-        <detail>今天我们将展示如何用Unity3D实现“对话”。</detail>  
-    </dialogue>  
-    <dialogue>  
-        <role>A</role>  
-        <detail>整个过程可能有些废……但希望大家喜欢。</detail>  
-    </dialogue>  
-    <dialogue>  
-        <role>B</role>  
-        <detail>你好好做，大家一定会喜欢的！</detail>  
-    </dialogue>  
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialogues>        
+  <dialogue>            
+    <role>Cici</role>            
+    <detail>Oh, are you the daughter of that evil witch?</detail>       
+  </dialogue>        
+  <dialogue>            
+    <role>Harley</role>            
+    <detail>Yes, I am! Who are you?</detail>         
+  </dialogue>        
+  <dialogue>            
+    <role>Cici</role>            
+    <detail>I'm Cici, the daughter of Fairy.</detail>       
+  </dialogue>        
+  <dialogue>           
+    <role>Cici</role>            
+    <detail>I can't understand why people like you would be allowed to study there. You know, like father, like son.</detail>       
+  </dialogue>        
+  <dialogue>            
+    <role>Cici</role>            
+    <detail>I don't think the descendant of any villain will be any different. You’re a rude and evil devil just like your mother!</detail>       
+  </dialogue>  
+  <dialogue> 
+    <role>Harley</role>  
+    <detail>Don’t you mention my mom!</detail> 
+  </dialogue>
+  <dialogue> 
+    <role>Harley</role>  
+    <detail>Wingardium Leviosa</detail> 
+  </dialogue>  
+  <dialogue> 
+    <role>Cici</role>  
+    <detail>Ah~~~~ What have you done to me? Why do I have a devil tail? Oh, no!!!</detail> 
+  </dialogue>  
 </dialogues>

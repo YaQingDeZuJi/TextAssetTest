@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/CsvTest.unity
+- path: Assets/Scenes/XmlTest.unity
   isLoaded: 1
   isActive: 1

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/XmlDialogTest.cs">
+    <Files>
+      <File FileName="Assets/Resources/DialogXML.xml" Line="18" Column="27" />
+      <File FileName="Assets/Scripts/XmlDialogTest.cs" Line="38" Column="35" />
+      <File FileName="Assets/Resources/Dialog.xml" Line="23" Column="13" />
+      <File FileName="Assets/Scripts/Dialog.cs" Line="53" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
